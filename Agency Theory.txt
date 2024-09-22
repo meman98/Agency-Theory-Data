@@ -1,0 +1,4 @@
+f: Schedule of rates
+m: cost plus fee
+t: incentive
+s: lump sum
